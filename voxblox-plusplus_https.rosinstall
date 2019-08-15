@@ -26,9 +26,6 @@
     local-name: minkindr
     uri: https://github.com/ethz-asl/minkindr.git
 - git:
-    local-name: modelify_msgs
-    uri: https://github.com/ethz-asl/modelify_msgs.git
-- git:
     local-name: opencv3_catkin,
     uri: https://github.com/ethz-asl/opencv3_catkin.git
 - git:
